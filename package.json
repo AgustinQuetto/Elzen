@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "annyang": "^2.6.1",
+    "artyom.js": "^1.0.6",
     "next": "^8.0.5-canary.25",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
